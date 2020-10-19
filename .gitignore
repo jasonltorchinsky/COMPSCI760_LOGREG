@@ -2,4 +2,4 @@
 *~
 
 # The build subdirectory
-./build/*
+**/build/
