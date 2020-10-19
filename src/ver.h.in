@@ -1,0 +1,5 @@
+  // Version information for log_reg
+
+#define LOG_REG_VERSION_MAJOR @log_reg_VERSION_MAJOR@
+#define LOG_REG_VERSION_MINOR @log_reg_VERSION_MINOR@
+  

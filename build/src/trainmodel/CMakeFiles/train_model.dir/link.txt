@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtrain_model.a  CMakeFiles/train_model.dir/trainmodel.cpp.o
+/usr/bin/ranlib libtrain_model.a

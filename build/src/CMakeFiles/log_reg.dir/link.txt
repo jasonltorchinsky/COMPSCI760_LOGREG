@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/log_reg.dir/main.cpp.o  -o ../log_reg  readdata/libread_data.a trainmodel/libtrain_model.a 

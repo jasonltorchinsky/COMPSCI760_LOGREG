@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Owner/Education and Research/Personal Projects/compsci_760/log_reg/src/readdata/readdata.cpp
+sample.h
+/mnt/c/Users/Owner/Education and Research/Personal Projects/compsci_760/log_reg/src/readdata/sample.h
+fstream
+-
+iostream
+-
+sstream
+-
+string
+-
+
+inc/sample.h
+

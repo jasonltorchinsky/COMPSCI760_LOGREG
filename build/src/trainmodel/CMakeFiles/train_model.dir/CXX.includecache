@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Owner/Education and Research/Personal Projects/compsci_760/log_reg/src/trainmodel/trainmodel.cpp
+sample.h
+/mnt/c/Users/Owner/Education and Research/Personal Projects/compsci_760/log_reg/src/trainmodel/sample.h
+cmath
+-
+iostream
+-
+limits
+-
+
+inc/sample.h
+
